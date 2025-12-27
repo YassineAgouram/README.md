@@ -41,15 +41,18 @@
 ## 🧰 Tech Stack
 
 ### 🧑‍💻 Programming & Scripting
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,go,java,bash,js&perline=12" height="40" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,go,java,bash,js,c,nodejs,react,angular&perline=12" height="40" /> </p>
+
+### 📦 Dependency Managers
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=maven,npm,gradle&perline=12" height="40" /> </p>
+
 
 ### ☁️ Cloud Platforms
 <p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,openstack&perline=12" height="40" /> </p>
 
 ### ⚙️ DevOps & CI/CD
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,githubactions,argo&perline=12" height="40" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,githubactions,nginx&perline=12" height="40" /> </p>
 
 ### 🏗️ Infrastructure as Code & Automation
 <p align="center">
@@ -66,10 +69,9 @@
   <img src="https://skillicons.dev/icons?i=linux,prometheus,grafana&perline=12" height="40" />
 </p>
 
-🔐 DevSecOps & Security
+### 🔐 DevSecOps & Security
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=sonarqube,snyk,git,vault&perline=12" height="40" /> <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" height="40" alt="Trivy" /> <img src="https://owasp.org/assets/images/logo.png" height="40" alt="OWASP ZAP" /> <img src="https://raw.githubusercontent.com/falcosecurity/falco/master/docs/images/falco-logo.png" height="40" alt="Falco" /> </p>
----
+<p align="center"> <img src="https://skillicons.dev/icons?i=sonarqube,snyk,vault&perline=12" height="40" alt="SonarQube Snyk Vault"/> <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" height="40" alt="Trivy"/> <img src="https://owasp.org/assets/images/logo.png" height="40" alt="OWASP ZAP"/>  </p>
 
 ## 📊 GitHub Stats
 <p align="center">
