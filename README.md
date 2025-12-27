@@ -9,19 +9,19 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/yassine-agouram-2a9700205/" target="_blank" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@outlook.com" target="_blank" title="Email">
+  <a href="agouramyassine32@gmail.com" target="_blank" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://gitlab.com/your-gitlab" target="_blank" title="GitLab">
+  <a href="https://gitlab.com/users/agouramyassine32/groups" target="_blank" title="GitLab">
   <img src="https://skillicons.dev/icons?i=gitlab" height="32" alt="GitLab"/>
 </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Tarik_El_Oukili/" target="_blank" title="LeetCode">
+  <a href="https://leetcode.com/u/2scIPBHqsa/" target="_blank" title="LeetCode">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="32" width="32" alt="LeetCode"/>
   </a>
 </p>
@@ -41,12 +41,16 @@
 ## 🧰 Tech Stack
 
 ### 🧑‍💻 Programming & Scripting
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,go,java,bash,js,c,nodejs,react,angular&perline=12" height="40" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,go,java,bash,js,c&perline=12" height="40" /> </p>
 
 ### 📦 Dependency Managers
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=maven,npm,gradle&perline=12" height="40" /> </p>
 
+###  Backend / Apps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,flask,react&perline=12" height="40" />
+</p>
 
 ### ☁️ Cloud Platforms
 <p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,openstack&perline=12" height="40" /> </p>
