@@ -6,7 +6,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yassine-agouram-2a9700205/" target="_blank" title="LinkedIn">
