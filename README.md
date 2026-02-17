@@ -77,10 +77,12 @@
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=wazuh,sonarqube,snyk,vault&perline=12" height="40" alt="SonarQube Snyk Vault"/> <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" height="40" alt="Trivy"/> <img src="https://owasp.org/assets/images/logo.png" height="40" alt="OWASP ZAP"/>  </p>
 
-## 📊 GitHub Stats
+## Github Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YassineAgouram&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p align="center">
+  <a href="https://github.com/YassineAgouram">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YassineAgouram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YassineAgouram&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YassineAgouram&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
----
